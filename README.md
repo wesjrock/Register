@@ -25,7 +25,11 @@ The game was made using Quartus software along with an Altera Cyclone II DE2-70 
 	2. At the end of Quartus configuration wizard, select Altera Cyclone II DE2-70 FPGA.
 	3. Open the file `Registrador/Register.qpf` and compile the project.
 ```
-
+CREDITS
+--------------------------------------------------
+- Frederico O. Sampaio
+- Tiago Leite
+- Wesley Tiozzo
 
 MORE INFO
 --------------------------------------------------
